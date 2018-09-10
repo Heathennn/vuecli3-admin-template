@@ -1,0 +1,17 @@
+@import '~assets/style/utils';
+
+html,
+body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  overflow-y: hidden;
+  font-family: -apple-system, 'BlinkMacSystemFont', 'PingFang SC', 'Helvetica', 'Tahoma', 'Arial', 'Hiragino Sans GB',
+    'Microsoft YaHei', 'SimSun', 'Heiti', sans-serif;
+}
+
+input, textarea, select, button {
+  font-family: -apple-system, 'BlinkMacSystemFont', 'PingFang SC', 'Helvetica', 'Tahoma', 'Arial', 'Hiragino Sans GB',
+  'Microsoft YaHei', 'SimSun', 'Heiti', sans-serif;
+}
+
